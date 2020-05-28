@@ -1,5 +1,5 @@
 module JFXTextAdventure {
     requires javafx.controls;
 
-    opens TextAdventure;
+    opens text_adventure;
 }
